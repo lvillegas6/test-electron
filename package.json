@@ -15,7 +15,7 @@
     "electron": "^8.2.4",
     "electron-installer-debian": "^3.0.0",
     "electron-packager": "^14.2.1",
-    "monaco-editor": "^0.20.0",
+    "monaco-editor": "^0.20.0", 
     "monaco-loader": "^1.0.0"
   }
 }
